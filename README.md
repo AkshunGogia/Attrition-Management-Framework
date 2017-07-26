@@ -1,6 +1,6 @@
 # Attrition-Management-Framework
 
-Case Study Competation by EXL Excellence Qoutient 2017 by EXL Services. 
+Case Study Competation by EXL Excellence Quotient 2017 by EXL Services. 
 
 Obective: Prediction potential churners in a Telecom Industry.
 
